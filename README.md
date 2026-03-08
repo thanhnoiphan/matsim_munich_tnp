@@ -10,22 +10,22 @@ This repository presents the results of a successful 30-iteration MATSim simulat
 The score improves rapidly in early iterations and stabilizes afterwards, indicating convergence.
 
 ### Mode share
-![Mode share](figures/munich.modestats_stackedbar.png)
+<img src="https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Figures/munich.modestats_stackedbar.png" width="500">
 
 Mode shares remain stable across iterations.
 
 ### Passenger kilometers traveled
-![Passenger kilometers](figures/munich.pkm_modestats.png)
+<img src="https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Figures/munich.pkm_modestats.png" width="500">
 
 Passenger-kilometers by mode remain consistent across iterations.
 
 ### Passenger hours traveled
-![Passenger hours](figures/munich.ph_modestats.png)
+<img src="https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Figures/munich.ph_modestats.png" width="500">
 
 Passenger-hours by mode indicate stable travel-time patterns.
 
 ### Average trip distance
-![Trip distance](figures/munich.traveldistancestatstrips.png)
+<img src="https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Figures/munich.traveldistancestatstrips.png" width="500">
 
 Average trip distance stabilizes quickly, suggesting consistent mobility patterns.
 
