@@ -5,7 +5,7 @@ This repository presents the results of a successful 30-iteration MATSim simulat
 ## Key results
 
 ### Score convergence
-<img src='https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/munich.scorestats.png' width=500'> 
+<img src="https://raw.githubusercontent.com/thanhnoiphan/matsim_munich_tnp/main/munich.scorestats.png" width="500">
 
 The score improves rapidly in early iterations and stabilizes afterwards, indicating convergence.
 
