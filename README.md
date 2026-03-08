@@ -29,6 +29,4 @@ Passenger-hours by mode indicate stable travel-time patterns.
 
 Average trip distance stabilizes quickly, suggesting consistent mobility patterns.
 
-## Conclusion
-
-The MATSim Munich simulation completed successfully and reached stable behavioral and system-level patterns within 30 iterations.
+👉 The MATSim Munich simulation completed successfully and reached stable behavioral and system-level patterns within 30 iterations.
