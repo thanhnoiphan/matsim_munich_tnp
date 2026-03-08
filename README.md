@@ -1,7 +1,7 @@
-# MATSim Munich Simulation Results
+## MATSim Munich Simulation Results
 
-This repository presents the results of a successful 30-iteration MATSim simulation for the Munich scenario.
-
+This repository demonstrates a successful MATSim simulation run for the Munich scenario with 30 iterations.
+> The model reaches convergence and produces stable travel behavior patterns across all major indicators.
 ## Key results
 
 ### Score convergence
