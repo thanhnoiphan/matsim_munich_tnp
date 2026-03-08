@@ -14,6 +14,25 @@ Each trip recorded in `output_trips.csv.gz` is classified by its main mode.
 The resulting distribution provides an overview of the modal split of the simulated travel demand, 
 including private car, public transport, cycling, and walking.
 
+### Network Traffic Flow
+
+<img src='https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Output_Viz/figure_02_traffic_flow_map.png' width='750'> 
+
+**Figure 2. Simulated traffic flow across the Munich road network.**  
+Line thickness represents the number of vehicles passing each road segment during the simulation. 
+Traffic volumes are derived from `entered link` events recorded in `events.xml.gz`. 
+The figure highlights major transport corridors and congestion-prone areas in the simulated network.
+
+### Residential Activity Distribution
+
+<img src='https://github.com/thanhnoiphan/matsim_munich_tnp/blob/main/Output_Viz/figure_03_home_density.png' width='750'> 
+
+**Figure 3. Spatial distribution of home activities in the synthetic population.**  
+Each hexagonal cell represents the density of residential activity locations extracted from `output_plans.xml.gz`. 
+The map reflects the spatial structure of the simulated population and closely resembles the urban footprint of the Munich metropolitan area.
+
+
+
 
 
 ### Score convergence
